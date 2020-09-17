@@ -1,0 +1,41 @@
+Assignment 1 (17/09/2020)
+
+1)	Write a program to print your name, your place of stay, your stream of study, your college name in different lines. 
+
+2)	Raj was writing a python program to do the addition of multiple numbers. He chose one variable name as “def” to store a value of 5. But when he ran the script, the program gave an error. Could you provide a possible explanation?
+
+3)	While running a program I was faced with an error several times.
+
+if True:
+print "Answer"
+else:
+print "No Answer"
+This was the code that I was running. What can be the possible issue? 
+
+4)	What is the difference between single quote (’), double quotes (‘’) and triple quotes (‘’’)?
+
+5)	Write a program to print only the quotients of the following division:
+	a)	19/2	(b)27/4	(c) 100/3	(d) 20/5
+
+6)	What modifications are required in above arithmetic operation so that we get the exact result. Explain your answer.
+
+7)	write a program to print the following sentence:
+	“Python is an interactive language”
+	Access the 5th, 11th, 13th , 18th and 23rd element. Which operator did you make use of? 
+
+8)	Write a program to print a list containing
+	A)	The name of 5 countries of your choice.
+	B)	Access the 4th country name.
+	C)	Print the first 2 countries.
+	D)	Print the last two countries.
+	E)	Update the list by adding 5 more countries and then print the updated list.
+
+9)	Write a Python program to create a tuple.
+
+10)	Write a Python program to create a tuple with different data types.
+
+11)	Write a Python program to add an item in a tuple.
+
+12)	Write a Python script to add a key to a dictionary.
+
+13)	Write a Python script to add a key to a dictionary.
