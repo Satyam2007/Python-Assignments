@@ -1,0 +1,7 @@
+							Assignment – 3
+							(20/09/2020)
+1)	Write a program to give values to two variables and check if it is a square or rectangle.
+2)	Write a program to initiate two variables and store an integer value in them. Using proper loop print whether the first number is greater, or the second number is greater or both are equal.
+3)	Write a program to define age of three people and determine oldest and youngest among them.
+4)	Write a program to assign value to a variable and then check if the number is even or odd.
+5)	Mary wants to eat chocolate but she can only do that if it doesn’t rain. Otherwise she has to eat ice cream. Write a program to assign a statement “It is raining” to a variable and then decide if Mary should ice cream or chocolate?
