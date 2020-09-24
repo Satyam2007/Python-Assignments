@@ -1,0 +1,92 @@
+										Assignment 5
+										(24/09/2020)
+1)	Write a program to print the following pattern:
+	1
+	22
+	333
+	4444
+	55555
+
+2)	Write a program to print the following pattern:
+	11111
+	2222
+	333
+	44
+	5
+
+3)	Write a program to print the following pattern:
+	1
+	12
+	123
+	1234
+	12345
+
+4)	Write a program to print the following pattern:
+	55555
+	4444
+	333
+	22
+	1
+
+5)	Write a program to print the following pattern:
+	*****
+	****
+	***
+	**
+	*
+
+6) 	Write a program to print the following pattern:
+	1
+	2 1
+	4 2 1
+	8 4 2 1
+	16 8 4 2 1
+	32 16 8 4 2 1
+	64 32 16 8 4 2 1
+	128 64 32 16 8 4 2 1
+
+7) 	Write a program to print the follwoing pattern:
+	1
+	1 2 1
+	1 2 4 2 1
+	1 2 4 8 4 2 1
+	1 2 4 8 16 8 4 2 1
+	1 2 4 8 16 32 16 8 4 2 1
+	1 2 4 8 16 32 64 32 16 8 4 2 1
+	1 2 4 8 16 32 64 128 64 32 16 8 4 2 1	
+
+8) 	Write a program to prnt the following pattern:
+		*
+	      *   *
+	    *   *   *
+          *   *    *  *
+	*   *   *   *  *
+      *   *   *   *   *  *
+    *   *   *   *   *   *  *
+
+9)	Write a program to print the following pattern:
+		*
+		**
+		***
+		****
+		*****
+		****
+		***
+		**
+		*
+
+10 	Write a program to print the following pattern:
+		*
+	       * *
+	      * * *
+	     * * * *
+            * * * * *
+	     * * * *
+	      * * *
+	       * *
+		*
+
+11) write a program to print the fibonacci sequence till 100 terms which has to be user defined.
+
+12) Write a program to create a calculator consisting of basic arithmatics operations such as addition, subtraction, multiplication, division, percentage, modulus,
+    exponent where the numbers have to be user defined.
