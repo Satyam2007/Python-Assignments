@@ -1,0 +1,12 @@
+							Assignment 6
+							(05/10/2020)
+
+1) Find the AT and GC content from the follwoing DNA sequence: ATGGCCATTGUAATGGGCCGCTGAAAGGGTGCCCGATAG
+
+2) Perform the central dogma analysis on the follwoing DNA seqience: GCGCATACGACTACGACTAGACGCAGATAGAGATACATAGATACAATAGACATACAGACGACTACAGATAGAT
+
+3) Find how many stop codons are there in the previous translated protein and stop the translation afetr encountering the first stop codon.
+
+4) Go to NCBI website and download the fasta sequence of Pseudomonas aeruginosa (Accession ID: CP007224) and create a record file for the same using biopython.
+
+5) Go to NCBI website and download the genbank sequence of Staphylococcus aureus (Accession ID: AP017922) and create a record file for the same using biopython.
